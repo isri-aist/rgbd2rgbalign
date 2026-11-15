@@ -22,3 +22,7 @@
           -output ../2024_rgbd2rgbalign_media/frame0000/pc2equi_output0000.jpg \
           -overlayedOutput ../2024_rgbd2rgbalign_media/frame0000/pc2equi_overlay0000.jpg
      ```
+
+## Paper to cite
+
+G. Caron, G. Sevillano, M. Paula, N. Imamoglu. "RGB-D 360-degree SLAM with Learned Depth". IEEE/SICE International Symposium on System Integration, Jan. 2027, Kobe, Japan. 
